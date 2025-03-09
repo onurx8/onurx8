@@ -14,6 +14,7 @@
 
 <img align="right" width="400px" src="https://cdn.discordapp.com/attachments/1028266273135677452/1348280836096655491/72kRgV1_1.gif?ex=67cee3e1&is=67cd9261&hm=d04486b92deef05c6f49d58300d972301ce6d9c9da441eccfb449fb1e146fd94&">
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
