@@ -7,8 +7,7 @@
 <p align="left"> 
   <a href="https://discord.com/users/833656201623109712" target="blank">
     <img src="https://img.shields.io/badge/Discord-onurx.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="onurfx" />
-  </a>
-</p>
+  
 - Portfolio [https://onurx.com.tr/](https://onurx.com.tr/)
 - Discord Server [https://discord.gg/galaksi](https://discord.gg/galaksi)
 - Admin @ [discordsunucu.com](https://discordsunucu.com)
