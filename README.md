@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="onurfx" /> </p>
-<p align="left"> <a href="https://twitter.com/onurfx" target="blank"><img src="https://img.shields.io/twitter/follow/onurfx?logo=twitter&style=for-the-badge" alt="onurfx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/narizinhodf" target="blank"><img src="https://img.shields.io/twitter/follow/onurfx?logo=twitter&style=for-the-badge" alt="onurfx" /></a> </p>
 
 - Portfolio [https://onurx.com.tr/](https://onurx.com.tr/)
 - Discord Server [https://discord.gg/galaksi](https://discord.gg/galaksi)
@@ -12,21 +12,7 @@
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-<a href="https://github.com/onurfx" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/onurfx" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/onur_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://discord.gg/galaksi" target="_blank">
-<img src=https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-</div>  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
