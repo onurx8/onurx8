@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="onur" /> </p>
 <p align="left"> 
   <a href="https://discord.com/users/833656201623109712" target="blank">
-    <img src="https://img.shields.io/badge/Discord-833656201623109712-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="onurfx" />
+    <img src="https://img.shields.io/badge/Discord-onurx.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="onurfx" />
   </a>
 </p>
 - Portfolio [https://onurx.com.tr/](https://onurx.com.tr/)
