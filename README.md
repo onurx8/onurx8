@@ -12,7 +12,7 @@
 - Discord Server [https://discord.gg/galaksi](https://discord.gg/galaksi)
 - Admin @ [discordsunucu.com](https://discordsunucu.com)
 
-<img align="right" width="400px" src="[https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gi](https://cdn.discordapp.com/attachments/1028266273135677452/1348272024732172319/tumblr_oc6t41A1E51qiaxzfo4_400.gif?ex=67cedbac&is=67cd8a2c&hm=31fe6cf70db7edc697809b14bfa1f9a0b91ac2b4bb9c294595bb6aad8c218391&)f">
+<img align="right" width="400px" src="<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">">
 
 
 
