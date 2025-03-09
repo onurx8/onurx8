@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Discord bot developer from Turkey.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur" alt="onurfx" /></a> </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1028266273135677452/1348272024732172319/tumblr_oc6t41A1E51qiaxzfo4_400.gif?ex=67cedbac&is=67cd8a2c&hm=31fe6cf70db7edc697809b14bfa1f9a0b91ac2b4bb9c294595bb6aad8c218391&"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="onur" /> </p>
 <p align="left"> 
   <a href="https://discord.com/users/833656201623109712" target="blank">
