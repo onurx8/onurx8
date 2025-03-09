@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurfx" alt="onurfx" /></a> </p>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="onurfx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="onur" /> </p>
 <p align="left"> <a href="https://twitter.com/narizinhodf" target="blank"><img src="https://img.shields.io/twitter/follow/onurfx?logo=twitter&style=for-the-badge" alt="onur" /></a> </p>
 
 - Portfolio [https://onurx.com.tr/](https://onurx.com.tr/)
