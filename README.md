@@ -4,7 +4,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="onurfx" /> </p>
-<p align="left"> <a href="https://twitter.com/narizinhodf" target="blank"><img src="https://img.shields.io/twitter/follow/onurfx?logo=twitter&style=for-the-badge" alt="onurfx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/narizinhodf" target="blank"><img src="https://img.shields.io/twitter/follow/onurfx?logo=twitter&style=for-the-badge" alt="onur" /></a> </p>
 
 - Portfolio [https://onurx.com.tr/](https://onurx.com.tr/)
 - Discord Server [https://discord.gg/galaksi](https://discord.gg/galaksi)
