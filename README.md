@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Discord-onurx.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="onurfx" />
   
 - Portfolio [https://onurx.com.tr/](https://onurx.com.tr/)
+- Code Server [[https://discord.gg/vsc](https://discord.gg/vsc)]
 - Discord Server [https://discord.gg/galaksi](https://discord.gg/galaksi)
 - Admin @ [discordsunucu.com](https://discordsunucu.com)
 
