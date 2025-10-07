@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-[![Discord Presence](https://lanyard.cnrad.dev/api/833656201623109712)](https://discord.com/users/833656201623109712)
+[![Discord Presence](https://lanyard.cnrad.dev/api/833656201623109712?theme=light&bg=809ecf&borderRadius=20px&idleMessage=Muhtemelen%20meşgul%20değil)](https://discord.com/users/833656201623109712)
+
 
 <h3 align="center">A passionate Discord bot developer from Turkey.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onur" alt="onurfx" /></a> </p>
