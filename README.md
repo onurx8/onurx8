@@ -70,13 +70,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=fsociety&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" width="200"/>
-  
   **"Hello, Friend. See you in the code..."** 💀
 </div>
 
