@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://miro.medium.com/v2/resize:fit:640/format:webp/0*UEnodMydflbKuQZf.gif" width="35">
   Merhaba, Ben Onur
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
