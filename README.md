@@ -105,7 +105,7 @@ const onurfx = {
 ## 🎵 Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=dc143c&bar_color_cover=true" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=v4xZwjjtTsm-ClqVPg4C9g&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=dc143c&bar_color_cover=true" />
 </div>
 
 ---
