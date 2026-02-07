@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/bu5H2OPiyegHC/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="100%"/>
 </div>
 
 <h1 align="center">
@@ -31,18 +31,7 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500"/>
 </div>
 
-## 💀 Hakkımda
-```javascript
-const onurfx = {
-    code: ["JavaScript", "TypeScript", "Python", "C++", "C#"],
-    uzmanlık: ["Discord Bots", "Backend Development", "API Design"],
-    araçlar: ["Node.js", "MongoDB", "Express", "Docker", "Git"],
-    konum: "İstanbul, Türkiye 🇹🇷",
-    motto: "Control is an illusion, but code is reality."
-};
-```
 
----
 
 ## 🔗 İletişim
 
@@ -78,48 +67,6 @@ const onurfx = {
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,cpp,cs,mongodb,redis,express,docker,git,linux,bash,vscode,discord" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
-</div>
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=onurfx&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=dc143c&icon_color=dc143c" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=onurfx&theme=radical&hide_border=true&background=0d1117&ring=dc143c&fire=dc143c&currStreakLabel=dc143c" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=onurfx&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc143c" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
-</div>
-
-## 🎵 Spotify
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=v4xZwjjtTsm-ClqVPg4C9g&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=dc143c&bar_color_cover=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="500"/>
-</div>
-
-## 💼 Projeler
-
-🤖 **Discord Bot Framework** - Gelişmiş bot altyapısı  
-🎮 **Community Dashboard** - Topluluk yönetim paneli  
-💰 **Crypto Tracker Bot** - Kripto fiyat takip botu  
-🔐 **Auth Systems** - Güvenlik ve kimlik doğrulama  
 
 ---
 
